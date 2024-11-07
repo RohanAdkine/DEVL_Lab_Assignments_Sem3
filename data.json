@@ -1,0 +1,38 @@
+[ 
+{
+"name" : "Rohan",
+"PRN" : 76,
+"Year" : "SY",
+"Division" : "B",
+"Batch" : "B1"
+},
+{
+"name" : "Anish",
+"PRN" : 79,
+"Year" : "SY",
+"Division" : "B",
+"Batch" : "B1"
+},
+{
+"name" : "Piyush",
+"PRN" : 77,
+"Year" : "SY",
+"Division" : "B",
+"Batch" : "B1"
+},
+{
+"name" : "Aditya",
+"PRN" : 75,
+"Year" : "SY",
+"Division" : "B",
+"Batch" : "B1"
+},
+{
+"name" : "tanishq",
+"PRN" : 92,
+"Year" : "SY",
+"Division" : "B",
+"Batch" : "B1"
+}
+]
+
